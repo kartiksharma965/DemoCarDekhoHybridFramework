@@ -1,0 +1,35 @@
+21:41:28.905 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Chrome Browser launched
+21:41:31.436 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Navigating to : https://www.carwale.com/
+21:41:35.131 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:42:20.258 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - FireFox Browser launched
+21:42:24.238 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Navigating to : https://www.carwale.com/
+21:42:29.614 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:42:29.619 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:42:29.623 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:43:10.820 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Chrome Browser launched
+21:43:12.777 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:43:14.390 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+21:43:20.282 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - FireFox Browser launched
+21:43:25.369 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:43:28.610 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+21:44:25.507 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Chrome Browser launched
+21:44:27.704 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:44:29.320 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+21:44:35.463 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - FireFox Browser launched
+21:44:38.287 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:44:50.483 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+21:57:51.409 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Chrome Browser launched
+21:57:53.707 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Navigating to : https://www.carwale.com/
+21:57:57.383 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:58:03.740 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - FireFox Browser launched
+21:58:06.971 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Navigating to : https://www.carwale.com/
+21:58:12.394 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:58:12.400 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:58:12.404 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - ----Test Execution Finished-----
+21:58:19.097 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Chrome Browser launched
+21:58:21.069 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:58:22.521 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+21:58:28.863 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - FireFox Browser launched
+21:58:32.635 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - Navigating to : https://www.carwale.com/
+21:58:35.889 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.CarNameAndPriceTest - ----Test Execution Finished-----
+10:58:50.028 [main] INFO  com.DemoCarDekhoHybridFramework.qa.testCase.FindNewCarTest - Chrome Browser launched
